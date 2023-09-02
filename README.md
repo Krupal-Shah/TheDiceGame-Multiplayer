@@ -1,5 +1,5 @@
 # TheDiceGame-Multiplayer
-This is a simple multiplayer game involving Dice and Strategy
+This is a simple multiplayer game involving luck and Strategy.
 It is built using HTML, CSS and JavaScript.
 
 You need to guess when to play and when to hold.
